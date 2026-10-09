@@ -112,6 +112,7 @@ I am now focused on applying that experience to software development, with an em
 ## 🌐 Portfolio & Connect
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nitesh-kumar-mern/)
+⚠️ Account Update: My LinkedIn account is temporarily restricted while LinkedIn reviews my identity verification. Until access is restored, please use my GitHub profile to explore my projects and connect with me regarding opportunities.
 - **GitHub:** [Nitu2610](https://github.com/Nitu2610)
 
 📍 Open to opportunities in **Bengaluru, Chennai, and Remote**
